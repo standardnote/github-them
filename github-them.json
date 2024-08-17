@@ -1,0 +1,21 @@
+{
+    "name": "GitHub",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "main": "main.css",
+    "showInGallery": true,
+    "identifier": "com.sncommunity.github-theme",
+    "version": "1.0.0",
+    "url": "https://standardnote.github.io/github-them/main.css",
+    "download_url": "https://standardnote.github.io/github-them/main.zip",
+    "latest_url": "https://standardnote.github.io/github-them/github.json",
+    "publisher": "@ixiumu",
+    "dock_icon": {
+        "type": "circle",
+        "background_color": "#238636",
+        "foreground_color": "#ffffff",
+        "border_color": "#238636"
+    },
+    "base64Hash": "",
+    "binaryHash": ""
+}
